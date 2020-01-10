@@ -1,5 +1,5 @@
 {
-  "token": "https://vk.com/4pdaru", // Токен от любой страницы ВКонтакте, получить можно тут: https://vk.cc/9bJ69C
+  "token": "4dad0278ee3bc94a93c0741619a327c895deac45d60619501142635a4a4844afd773f8c830c147675aac0", // Токен от любой страницы ВКонтакте, получить можно тут: https://vk.cc/9bJ69C
   "group_id": -38624893, // ID группы ВКонтакте из которой брать новости.
   "webhook_url": "https://discordapp.com/api/webhooks/615634195313721347/tXvIQB1eYx4ViJZPmIW054AmyVkrSLLnI2bDNnWJbvTAz8DO_j41SHU46gHKz2S2vPiM", // Ваш WebHook URL.
   "bot_name": "MaDDogs", // Имя вашего WebHook, выcвечиваетеся в качестве имени бота.
